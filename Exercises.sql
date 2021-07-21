@@ -1,3 +1,5 @@
+--Using imdb.sql
+
 How many actresses are there?
 select count(distinct name)
 from actress;
